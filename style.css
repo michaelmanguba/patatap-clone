@@ -1,0 +1,16 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    height: 100%;
+    margin: 0;
+}
+
+canvas {
+    width: 100%;
+    height: 890px;
+}
+
+p {
+    font-weight: 300;
+    font-size: 16px;
+    text-align: center;
+}
